@@ -128,7 +128,7 @@ Traverse(head)
 end Traverse
 ```
 
-### Lặp qua/Duyệt qua trong trình tự đảo ngược
+### Lặp qua/Duyệt qua với trình tự đảo ngược
 
 ```text
 ReverseTraversal(head, tail)
