@@ -4,8 +4,12 @@ _Lee este artículo en otros idiomas:_
 [_简体中文_](README.zh-CN.md),
 [_Русский_](README.ru-RU.md),
 [_日本語_](README.ja-JP.md),
-[_Português_](README.pt-BR.md)
-[_English_](README.md)
+[_Português_](README.pt-BR.md),
+[_한국어_](README.ko-KR.md),
+[_Español_](README.es-ES.md),
+[_Türkçe_](README.tr-TR.md),
+[_Українська_](README.uk-UA.md),
+[_Tiếng Việt_](README.vi-VN.md)
 
 En ciencias de la computaciòn una **lista enlazada** es una  coleccion linear
 de elementos de datos, en los cuales el orden linear no es dado por
