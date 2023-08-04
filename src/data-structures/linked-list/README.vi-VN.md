@@ -1,4 +1,4 @@
-# Linked List
+# Danh sách liên kết
 
 _Đọc với ngôn ngữ khác:_
 [_简体中文_](README.zh-CN.md),
