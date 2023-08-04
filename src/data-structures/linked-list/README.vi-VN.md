@@ -1,6 +1,6 @@
 # Linked List
 
-_Read this in other languages:_
+_Đọc với ngôn ngữ khác:_
 [_简体中文_](README.zh-CN.md),
 [_Русский_](README.ru-RU.md),
 [_日本語_](README.ja-JP.md),
